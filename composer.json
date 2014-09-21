@@ -9,6 +9,7 @@
 		"barryvdh/laravel-debugbar": "1.*"
 		"dompdf/dompdf" : "dev-master",
 		"stripe/stripe-php" : "dev-master",
+		"omnipay/omnipay": "~2.0",
 		"fzaninotto/faker" : "dev-master",
 		"teepluss/theme": "dev-master",
 		"kriswallsmith/assetic": "1.2.*@dev",
@@ -21,6 +22,7 @@
 		"intervention/image": "2.*",
         "intervention/imagecache": "dev-master",
         "frozennode/administrator": "dev-master",
+        "omnipay/omnipay": "~2.0"
 	},
 	"autoload": {
 		"classmap": [
